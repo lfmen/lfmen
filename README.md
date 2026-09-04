@@ -11,7 +11,6 @@
 </div>
 
 ### Sobre mí
-Estudiante de Ciencia de Datos enfocado en modelado predictivo, estadística y machine learning. 
 - **Idiomas:** Inglés C2 (Cambridge CPE) · Italiano A2
 - **Certificaciones:** Google Data Analytics · Google AI Essentials
 
