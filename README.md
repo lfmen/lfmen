@@ -25,24 +25,14 @@
 
 <table align="center">
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="300" valign="top">
 
 **[AEDFormula1](https://github.com/lfmen/AEDFormula1)**
-<br/>
-Análisis exploratorio de resultados de F1 con Tidyverse (TP UNR).
-<br/>
+
+Análisis exploratorio de resultados históricos de Fórmula 1 con Tidyverse. Trabajo práctico de Laboratorio de Datos 1, UNR.
+
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-
-</td>
-<td width="50%" valign="top" align="center">
-
-**Próximamente** 🚧
-<br/>
-Nuevos proyectos en camino.
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<br/>
-<img src="https://skillicons.dev/icons?i=py" height="40" />
+<img src="https://img.shields.io/badge/Data_Analysis-3776AB?style=flat-square" />
 
 </td>
 </tr>
@@ -52,12 +42,12 @@ Nuevos proyectos en camino.
 
 <table align="center">
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="300" valign="top">
 
 **[FarkleTP](https://github.com/lfmen/FarkleTP)**
-<br/>
-Juego de dados Farkle en R. TP grupal, Programación 1 (UNR).
-<br/>
+
+Implementación del juego de dados Farkle en R. Trabajo práctico grupal de Programación 1, UNR.
+
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
 
 </td>
