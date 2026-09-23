@@ -23,7 +23,7 @@
 
 ### Proyectos
 
-<table align="center">
+<table align="left">
 <tr>
 <td width="300" valign="top">
 
@@ -40,7 +40,7 @@ Análisis exploratorio de resultados históricos de Fórmula 1 con Tidyverse. Tr
 
 ### Proyectos en los que contribuí
 
-<table align="center">
+<table align="left">
 <tr>
 <td width="300" valign="top">
 
