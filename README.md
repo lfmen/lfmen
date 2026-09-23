@@ -27,15 +27,6 @@
 <tr>
 <td width="50%" valign="top">
 
-**[FarkleTP](https://github.com/lfmen/FarkleTP)**
-
-Implementación del juego de dados Farkle en R. Trabajo práctico de Programación 1, UNR, desarrollado en equipo.
-
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-
-</td>
-<td width="50%" valign="top">
-
 **[AEDFormula1](https://github.com/lfmen/AEDFormula1)**
 
 Análisis exploratorio de resultados históricos de Fórmula 1 con Tidyverse. Trabajo práctico de Laboratorio de Datos 1, UNR.
@@ -48,3 +39,19 @@ Análisis exploratorio de resultados históricos de Fórmula 1 con Tidyverse. Tr
 </table>
 
 <p align="center"><i>Próximamente más proyectos, en Python 🐍</i></p>
+
+### Proyectos en los que contribuí
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+**[FarkleTP](https://github.com/lfmen/FarkleTP)**
+
+Implementación del juego de dados Farkle en R. Trabajo práctico grupal de Programación 1, UNR.
+
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+
+</td>
+</tr>
+</table>
