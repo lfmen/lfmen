@@ -32,4 +32,9 @@ Me interesan la inteligencia artificial, el aprendizaje automático y los modelo
 |:---|:---|:---|
 | [AEDFormula1](https://github.com/lfmen/AEDFormula1) | Análisis exploratorio de resultados históricos de la Fórmula 1. Laboratorio de Datos 1, UNR. | R, Tidyverse |
 | [TheftDeterrent](https://github.com/lfmen/TheftDeterrent) | Instalador del cliente antirrobo de Conectar Igualdad para distribuciones Linux actuales. | Bash, Python |
+
+## Proyectos en los que contribuí
+
+| Proyecto | Descripción | Tecnologías |
+|:---|:---|:---|
 | [FarkleTP](https://github.com/lfmen/FarkleTP) | Juego de dados Farkle por consola. Trabajo grupal de Programación 1, UNR. | R |
