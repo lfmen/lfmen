@@ -18,7 +18,6 @@
 
 Me interesan la inteligencia artificial, el aprendizaje automático y los modelos de lenguaje, y cómo aplicarlos a datos reales, en particular del deporte y la economía.
 
-- **Distinción:** Premio Nacional al Alumno Secundario Destacado 2025, Banco Santander Argentina
 - **Certificaciones:** Google Data Analytics · Google AI Essentials
 - **Idiomas:** Inglés C2 (Cambridge CPE) · Italiano A2
 
@@ -30,11 +29,11 @@ Me interesan la inteligencia artificial, el aprendizaje automático y los modelo
 
 | Proyecto | Descripción | Tecnologías |
 |:---|:---|:---|
-| [AEDFormula1](https://github.com/lfmen/AEDFormula1) | Análisis exploratorio de resultados históricos de la Fórmula 1. Laboratorio de Datos 1, UNR. | R, Tidyverse |
-| [TheftDeterrent](https://github.com/lfmen/TheftDeterrent) | Instalador del cliente antirrobo de Conectar Igualdad para distribuciones Linux actuales. | Bash, Python |
+| [AEDFormula1](https://github.com/lfmen/aedformula1) | Análisis exploratorio de resultados históricos de la Fórmula 1. Laboratorio de Datos 1, UNR. | R, Tidyverse |
+| [TheftDeterrent](https://github.com/lfmen/theftdeterrent) | Instalador del cliente antirrobo de Conectar Igualdad para distribuciones Linux actuales. | Bash, Python |
 
 ## Proyectos en los que contribuí
 
 | Proyecto | Descripción | Tecnologías |
 |:---|:---|:---|
-| [FarkleTP](https://github.com/lfmen/FarkleTP) | Juego de dados Farkle por consola. Trabajo grupal de Programación 1, UNR. | R |
+| [FarkleTP](https://github.com/lfmen/farkletp) | Juego de dados Farkle por consola. Trabajo grupal de Programación 1, UNR. | R |
