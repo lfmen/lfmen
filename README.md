@@ -13,7 +13,3 @@ Me interesan la inteligencia artificial y los modelos de lenguaje aplicados a da
 ## Herramientas
 
 R, Python, Bash, Git, GitHub Actions, Linux.
-
-## Contacto
-
-[lfmen.github.io](https://lfmen.github.io) · lucafrancomengarelli@gmail.com
